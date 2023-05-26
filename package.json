@@ -18,7 +18,11 @@
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
+    "@vimeo/player": "^2.20.1",
+    "install": "^0.13.0",
+    "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0",
+    "npm": "^9.6.7",
     "simplelightbox": "^2.14.0"
   },
   "devDependencies": {
